@@ -13,7 +13,7 @@ Practicing DSA, system design, and writing code that scales better than my sleep
 ![](https://nirzak-streak-stats.vercel.app/?user=commitwithsneha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=commitwithsneha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ 
+### ✍️ System Status
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
