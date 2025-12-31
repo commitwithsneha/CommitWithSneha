@@ -1,5 +1,6 @@
 # 💫 About Me:
-Building backend-focused projects, strengthening data structures & algorithms, and maintaining consistent problem-solving practice through LeetCode-style challenges.<br><br>Beginner-to-intermediate backend projects, open-source contributions, learning-focused repositories, and small tools that solve real problems.<br><br>System design fundamentals, scalable backend patterns, and improving code quality through reviews and best practices.<br><br>Data structures & algorithms, backend development, databases, system design basics, and exploring AI-driven applications.<br><br>DSA practice strategies, backend fundamentals, project structuring, GitHub workflows, or staying consistent while learning.<br><br>I enjoy turning complex concepts into simple systems and tracking progress through structured learning and clean code.
+Building backend systems, breaking problems into O(1) ideas, and slowly reducing bugs per line of thought.
+Practicing DSA, system design, and writing code that scales better than my sleep schedule.
 
 
 ## 🌐 Socials:
